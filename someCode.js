@@ -1,4 +1,4 @@
 console.log("hello world!");
 
-alert("forked")
-
+console.log(" IT is leading");
+]
