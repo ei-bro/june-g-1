@@ -1,4 +1,6 @@
 console.log("hello world!");
 
-alert("forked")
+console.log(" fork");
+
+
 
